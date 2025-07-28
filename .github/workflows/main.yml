@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Narrative Visualization</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/d3-annotation@2.5.1/dist/d3-annotation.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Narrative Visualization</h1>
+  <div id="vis"></div>
+  <button id="next">Next Scene</button>
+  <script src="main.js"></script>
+</body>
+</html>\
